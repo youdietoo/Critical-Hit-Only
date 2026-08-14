@@ -1,6 +1,6 @@
 [project]
 name = "Critical Hit Only"
-version = "1.0"
+version = "1.1"
 authors = [{ name = "youdietoo" }]
 description = """\
 You can only deal damage with critical hits.
